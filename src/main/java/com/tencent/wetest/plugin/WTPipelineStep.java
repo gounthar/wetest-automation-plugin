@@ -15,7 +15,6 @@ import org.jenkinsci.plugins.workflow.steps.StepContextParameter;
 import org.kohsuke.stapler.DataBoundConstructor;
 
 import java.io.IOException;
-import java.io.Serializable;
 
 /**
  * Pipeline build step for WeTest Automation Jenkins plugin.

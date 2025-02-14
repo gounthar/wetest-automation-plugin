@@ -10,13 +10,13 @@ import com.cloudtestapi.device.models.ModelList;
 import com.cloudtestapi.test.models.AutomationTest;
 import com.cloudtestapi.test.models.TestInfo;
 import com.cloudtestapi.test.models.TestStatus;
-import com.cloudtestapi.upload.models.App;
 import com.cloudtestapi.upload.models.Script;
 import com.tencent.wetest.plugin.model.GroupInfo;
 import com.tencent.wetest.plugin.model.ProjectInfo;
 import org.apache.commons.lang.StringUtils;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 

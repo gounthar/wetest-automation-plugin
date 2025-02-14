@@ -1,11 +1,9 @@
 package com.tencent.wetest.plugin.util;
 
-import hudson.FilePath;
 import org.apache.commons.lang.StringUtils;
 
 import java.io.File;
 import java.io.IOException;
-import java.net.URI;
 
 public class FileUtils {
 
